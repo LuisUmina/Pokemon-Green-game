@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\TF\TF\Release\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TF\TF\Release\TF.MyForm1.resources
+C:\Users\USER\source\repos\TF\TF\Release\TF.vcxproj.GenerateResource.cache

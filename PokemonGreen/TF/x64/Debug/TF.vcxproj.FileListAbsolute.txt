@@ -1,0 +1,37 @@
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.CreditosForm.resources
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.InstruccionesForm.resources
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.MenuForm.resources
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.MyForm1.resources
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.MyForm2.resources
+C:\Users\USER\source\repos\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.CreditosForm.resources
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.InstruccionesForm.resources
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.MenuForm.resources
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.MyForm1.resources
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.MyForm2.resources
+C:\Users\USER\source\repos\u20211c149\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.CreditosForm.resources
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.InstruccionesForm.resources
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.MenuForm.resources
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.MyForm1.resources
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.MyForm2.resources
+C:\Users\USER\Desktop\codigos de Programacion 2\TrabajoFinal\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.CreditosForm.resources
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.InstruccionesForm.resources
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.MenuForm.resources
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.MyForm1.resources
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.MyForm2.resources
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\USER\Desktop\codigos de Programacion 2 (ordenando aqui)\TrabajoFinal\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.CreditosForm.resources
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.InstruccionesForm.resources
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.MenuForm.resources
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.MyForm1.resources
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.MyForm2.resources
+C:\Users\USER\Documents\GitHub\Pokemon-Green-game\PokemonGreen\TF\x64\Debug\TF.vcxproj.GenerateResource.cache

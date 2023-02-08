@@ -1,0 +1,108 @@
+﻿  MenuForm.cpp
+C:\Users\USER\source\repos\TF\TF\Ash1.h(29,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Ash1.h(29,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Ash1.h(35,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Ash1.h(35,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Ash1.h(110,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Ash1.h(110,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(42,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(42,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(47,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(47,45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(64,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(64,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(42,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(42,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(47,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(47,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(64,53): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(64,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\SenalPunto.h(23,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\SenalPunto.h(23,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1.h(41,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1.h(41,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1.h(46,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1.h(46,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1.h(63,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1.h(63,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Basura.h(33,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Basura.h(33,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Basura.h(38,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Basura.h(38,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Basura.h(42,65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Basura.h(42,47): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(133,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(136,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(141,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(146,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(151,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(155,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(158,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(163,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(167,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(176,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(185,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(194,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(205,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(215,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(221,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(227,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(233,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Enemigo1Nivel2.h(22,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1Nivel2.h(22,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1Nivel2.h(39,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1Nivel2.h(39,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Pokebola.h(39,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Pokebola.h(39,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Pokebola.h(56,45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Pokebola.h(56,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaBoss.h(40,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaBoss.h(40,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaBoss.h(60,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaBoss.h(60,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1Nivel2.h(36,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1Nivel2.h(36,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1Nivel2.h(55,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Aliado1Nivel2.h(55,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaAliadoNivel2.h(40,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaAliadoNivel2.h(40,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaAliadoNivel2.h(58,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\BalaAliadoNivel2.h(58,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(50,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(53,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(57,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(60,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(66,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(77,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(86,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(95,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(104,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(110,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(120,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(124,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(129,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(135,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(162,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(165,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(168,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(171,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(177,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(180,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(183,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(186,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(193,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(194,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(204,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(205,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(215,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(224,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(233,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(242,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(251,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(263,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(270,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador2.h(277,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\MenuForm.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MenuForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF.vcxproj -> C:\Users\USER\source\repos\TF\Debug\TF.exe

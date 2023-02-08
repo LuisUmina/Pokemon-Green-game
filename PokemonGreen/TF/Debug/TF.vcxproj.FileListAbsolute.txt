@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\TF\TF\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TF\TF\Debug\TF.MyForm1.resources
+C:\Users\USER\source\repos\TF\TF\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\USER\source\repos\TF\TF\Debug\TF.MenuForm.resources
+C:\Users\USER\source\repos\TF\TF\Debug\TF.InstruccionesForm.resources
+C:\Users\USER\source\repos\TF\TF\Debug\TF.MyForm2.resources
+C:\Users\USER\source\repos\TF\TF\Debug\TF.CreditosForm.resources

@@ -1,0 +1,16 @@
+﻿  MyForm1.cpp
+C:\Users\USER\source\repos\TF\TF\Ash1.h(23,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Ash1.h(23,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(42,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo1.h(42,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(42,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Enemigo2.h(42,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(58,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(61,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(66,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\Controlador1.h(69,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TF\TF\MyForm1.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  MyForm1.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF.vcxproj -> C:\Users\USER\source\repos\TF\Release\TF.exe
